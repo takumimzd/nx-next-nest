@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "dependencies": {
+    "@nestjs/common": "^10.0.2",
+    "@nestjs/core": "^10.0.2",
+    "@nestjs/platform-express": "^10.0.2"
+  },
+  "devDependencies": {
+    "@nestjs/schematics": "^10.0.1",
+    "@nestjs/testing": "^10.0.2",
+    "@nestjs/mapped-types": "^2.0.5",
+    "@nx/nest": "^19.5.3",
+    "@nx/node": "19.5.3"
+  }
+}

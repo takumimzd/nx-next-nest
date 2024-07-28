@@ -4,12 +4,14 @@
   "dependencies": {
     "@nestjs/common": "^10.0.2",
     "@nestjs/core": "^10.0.2",
-    "@nestjs/platform-express": "^10.0.2"
+    "@nestjs/platform-express": "^10.0.2",
+    "@prisma/client": "^5.17.0",
+    "prisma": "^5.17.0"
   },
   "devDependencies": {
+    "@nestjs/mapped-types": "^2.0.5",
     "@nestjs/schematics": "^10.0.1",
     "@nestjs/testing": "^10.0.2",
-    "@nestjs/mapped-types": "^2.0.5",
     "@nx/nest": "^19.5.3",
     "@nx/node": "19.5.3"
   }

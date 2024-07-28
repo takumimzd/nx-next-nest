@@ -2,7 +2,9 @@
   "name": "@nx-next-nest/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "dev": "npx nx run-many -t serve front server"
+  },
   "private": true,
   "dependencies": {
     "@nestjs/common": "^10.0.2",

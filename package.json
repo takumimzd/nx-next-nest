@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "dev": "npx nx run-many -t serve front server"
+    "dev": "npx nx run-many -t serve front server",
+    "gen:api": "node ./scripts/genOpenApiJson/index.js"
   },
   "private": true,
   "workspaces": [

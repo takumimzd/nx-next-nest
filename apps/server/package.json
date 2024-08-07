@@ -11,6 +11,7 @@
   "devDependencies": {
     "@nestjs/mapped-types": "^2.0.5",
     "@nestjs/schematics": "^10.0.1",
+    "@nestjs/swagger": "^7.4.0",
     "@nestjs/testing": "^10.0.2",
     "@nx/nest": "^19.5.3",
     "@nx/node": "19.5.3"
